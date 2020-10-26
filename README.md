@@ -15,6 +15,9 @@
 - 数据库：mongodb3.3.2
 - 图片处理：gm1.23.1
 
+## 相关博文
+目前已在CSDN撰写7篇系列开发教程，文章目录见[这里](https://blog.csdn.net/lyandgh/article/details/104916962)
+
 ## 关键点
 ### 数据表设计
 主要包括三个集合：Book、User和File，如图
